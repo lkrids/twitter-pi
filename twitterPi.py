@@ -19,4 +19,4 @@ while True:
       GPIO.output(7,False)
       time.sleep(.5)
 
-  time.sleep(15*60) #https://dev.twitter.com/docs/rate-limiting/1.1/limits
+  time.sleep(60) #https://dev.twitter.com/docs/rate-limiting/1.1/limits
